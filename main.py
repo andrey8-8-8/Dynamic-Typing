@@ -7,3 +7,5 @@ new_age=age+15
 print(new_age)
 is_student='true'
 print(is_student)
+is_student=bool
+print(type,is_student)
